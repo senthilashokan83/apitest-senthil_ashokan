@@ -1,0 +1,19 @@
+{
+  "name": "sample-api-framework",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Senthil Ashokan",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "sync-rpc": "^1.3.6",
+    "xmlbuilder": "^15.0.0"
+  }
+}
